@@ -58,3 +58,7 @@ p {
 .box-5 {
     background-color: darkmagenta;
 }
+
+.pic {
+    border: 3px solid red;
+}
